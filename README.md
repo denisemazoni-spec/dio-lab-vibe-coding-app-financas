@@ -273,6 +273,14 @@ Também quero confirmar: você quer que o onboarding peça os valores"
 
 ### Inseri os dados, porém coloquei que recebi um valor extra e ele não entendeu como entrada, pedi a correção e também que me gerasse uma página com o extrato, detalhando entradas e saídas. Também foi solicitado que corrigisse o problema da segurança, iniciando com login e senha para o app
 
+O login e senha foram criados, porém os ganhos extras o app não entendeu:
+<img width="803" height="521" alt="image" src="https://github.com/user-attachments/assets/735d72e2-36ec-40f1-b62b-bbe71a5ca862" />
+
+Também não conseguiu gerar o extrato, dando erro. Os créditos do dia acabaram novamente, somente com essa interação
+
+
+
+
 
 # Resumo das funcionalidades do **App de Finanças Pessoais**:
 
