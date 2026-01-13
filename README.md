@@ -278,7 +278,7 @@ O login e senha foram criados, porém os ganhos extras o app não entendeu:
 
 Também não conseguiu gerar o extrato, dando erro. Os créditos do dia acabaram novamente, somente com essa interação
 
-
+### Optei por retornar ao Copilot e solicitar a correção do PRD inicial, com os erros encontrados no Lovable. Também iniciei a criação do App no próprio Copilot, por ser totalmente gratuito
 
 
 
