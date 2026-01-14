@@ -166,7 +166,7 @@ São gastos que acontecem todo mês e variam de valor:
 - Lazer
 - Vestuário
 - Remédios
-- Coparticipações
+- Coparticipações em planos de saúde
 - Empréstimos e financiamentos
 
 Esses gastos:
@@ -278,6 +278,9 @@ O login e senha foram criados, porém os ganhos extras o app não entendeu:
 
 Também não conseguiu gerar o extrato, dando erro. Os créditos do dia acabaram novamente, somente com essa interação
 
+### Solicitei opção de "esqueci minha senha" no Lovable
+
+
 ### Optei por retornar ao Copilot e solicitar a correção do PRD inicial, com os erros encontrados no Lovable. Também iniciei a criação do App no próprio Copilot, por ser totalmente gratuito
 
 
@@ -296,9 +299,13 @@ Por questões de segurança, não sei se indicar o valor exato das receitas no A
 
 O Lovable, com a versão gratuita, possui poucas iterações diárias, o que acaba atrasando a geração do App, e causando a perda de raciocínio lógico na criação.
 
+Optei por testar o Lovable e o Copilot em conjunto, mas não consegui finalizar nenhum dos dois apps da forma como gostaria, devido ao prazo para conclusão do curso ser curto e a criação demandar muito tempo e ajustes.
+
   - O que aprendeu sobre conversar com IAs?
 
 Conversar com a IA é extremamente divertido, basta saber exatamente o que você quer e expor as ideias completas, de maneira clara, que se obtém o resultado esperado. Por mais que ouça falar sobre as "alucuinações", nessa experiência não tive esse problema.
+
+A usabilidade do Copilot é mais fácil e ilimitada, porém os resultados visuais do Lovable são melhores.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
